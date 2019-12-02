@@ -52,6 +52,10 @@
     "type" : "job"
   },
   "relatedItems" : [ {
+    "id" : "_V2RmoBTnEeqq-MhkkAd_cQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
     "id" : "DataOperation",
     "version" : "Latest",
     "type" : "routine"
@@ -91,5 +95,9 @@
     "id" : "TalendStringUtil",
     "version" : "Latest",
     "type" : "routine"
+  }, {
+    "id" : "_V2RmoBTnEeqq-MhkkAd_cQ - FicheroGenre",
+    "version" : "Latest",
+    "type" : "schema"
   } ]
 } ]
